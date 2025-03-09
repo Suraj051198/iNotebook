@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iNotebook - MERN Stack Note Taking Application
 
 iNotebook is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack that allows users to create, store, edit, and manage their notes securely in the cloud.
@@ -218,3 +219,7 @@ JWT_SECRET=YourSecretKey
 ---
 
 Created by Suraj Sonawane | © 2023 iNotebook 
+=======
+# iNotebook
+ MERN Stack Note Taking Application
+>>>>>>> afd617c5c2c7df72f9a31777bf2aa78640250fb0
